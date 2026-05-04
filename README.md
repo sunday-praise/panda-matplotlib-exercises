@@ -1,1 +1,1 @@
-# panda-matplotlib-exercises
+# Panda & Matplotlib Exercises
